@@ -1,0 +1,7 @@
+.f-copy { background-position: -20px -0px; width: 43px; height: 43px; }
+.f { background-position: -20px -63px; width: 43px; height: 43px; }
+.i-copy { background-position: -20px -126px; width: 43px; height: 43px; }
+.i { background-position: -20px -189px; width: 43px; height: 43px; }
+.v-copy { background-position: -20px -252px; width: 43px; height: 43px; }
+.v { background-position: -20px -315px; width: 43px; height: 43px; }
+.icon-login { background-position: -20px -378px; width: 18px; height: 16px; }
