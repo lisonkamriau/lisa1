@@ -435,9 +435,14 @@ background: url("../img/index-content-shadow.png") no-repeat center,
 
   color: #000000;
 
-  background: #f8f3f0 url("../img/pattern-white.jpg");
+  background: #f8f3f0 url("../img/pattern-white.png");
   box-shadow: 0 30px 50px rgba(0,0,0,0.7);
 }
+
+.modal-content-show{
+  display: block;
+}
+
 .modal-content-map {
   display: none;
   position: fixed;
